@@ -1,4 +1,4 @@
-# README: Traffic Characterization and P4 Comparison
+# Traffic Characterization and P4 Comparison
 
 This Google Colab notebook performs an in-depth analysis of network traffic, focusing on statistical characterization and a comparative study between software-based (Python/Scapy) and hardware-assisted (P4) feature extraction methods.
 
