@@ -2,6 +2,8 @@
 
 This Google Colab notebook performs an in-depth analysis of network traffic, focusing on statistical characterization and a comparative study between software-based (Python/Scapy) and hardware-assisted (P4) feature extraction methods.
 
+Used dataset: http://mawi.nezu.wide.ad.jp/mawi/samplepoint-F/2013/201302011400.dump.gz
+
 ## Table of Contents
 1.  [Overview](#overview)
 2.  [Task I: Software-based Traffic Characterization and Statistical Analysis](#task-i-software-based-traffic-characterization-and-statistical-analysis)
